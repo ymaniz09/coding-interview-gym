@@ -16,6 +16,9 @@ internal class ArrayOfProductsTest {
                 Solution01(),
                 Solution02(),
                 Solution03(),
+                Solution01Java(),
+                Solution02Java(),
+                Solution03Java(),
             )
         }
     }
