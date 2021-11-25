@@ -1,5 +1,4 @@
 # coding-interview-gym
 algoexpert.io solutions
 
-[![GitHub last commit][last-commit-shield]][last-commit-url]
-[![GitHub repo size in bytes][repo-size-shield]][repo-size-url]
+![GitHub](https://img.shields.io/github/license/ymaniz09/coding-interview-gym)
